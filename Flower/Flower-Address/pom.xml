@@ -7,9 +7,7 @@
     <artifactId>Flower</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.chenliang</groupId>
   <artifactId>Flower-Address</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>Flower-Address</name>
   <url>http://maven.apache.org</url>
   <properties>
