@@ -7,8 +7,10 @@
     <artifactId>Flower</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Flower-Order</artifactId>
-  <name>Flower-Order</name>
+  <groupId>com.chenliang</groupId>
+  <artifactId>Flower-Comment</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Flower-Comment</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
